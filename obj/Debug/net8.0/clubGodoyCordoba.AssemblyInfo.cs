@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("clubGodoyCordoba")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+656dbabb344f54e02a042beb4ab68a330edd5e43")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+b2aa248b15eb8184ba8ba9cd66cf7de1449a1036")]
 [assembly: System.Reflection.AssemblyProductAttribute("clubGodoyCordoba")]
 [assembly: System.Reflection.AssemblyTitleAttribute("clubGodoyCordoba")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
