@@ -1,0 +1,14 @@
+/home/ricardo/Escritorio/programs/clubGodoyCordoba/bin/Debug/net8.0/clubGodoyCordoba
+/home/ricardo/Escritorio/programs/clubGodoyCordoba/bin/Debug/net8.0/clubGodoyCordoba.deps.json
+/home/ricardo/Escritorio/programs/clubGodoyCordoba/bin/Debug/net8.0/clubGodoyCordoba.runtimeconfig.json
+/home/ricardo/Escritorio/programs/clubGodoyCordoba/bin/Debug/net8.0/clubGodoyCordoba.dll
+/home/ricardo/Escritorio/programs/clubGodoyCordoba/bin/Debug/net8.0/clubGodoyCordoba.pdb
+/home/ricardo/Escritorio/programs/clubGodoyCordoba/obj/Debug/net8.0/clubGodoyCordoba.GeneratedMSBuildEditorConfig.editorconfig
+/home/ricardo/Escritorio/programs/clubGodoyCordoba/obj/Debug/net8.0/clubGodoyCordoba.AssemblyInfoInputs.cache
+/home/ricardo/Escritorio/programs/clubGodoyCordoba/obj/Debug/net8.0/clubGodoyCordoba.AssemblyInfo.cs
+/home/ricardo/Escritorio/programs/clubGodoyCordoba/obj/Debug/net8.0/clubGodoyCordoba.csproj.CoreCompileInputs.cache
+/home/ricardo/Escritorio/programs/clubGodoyCordoba/obj/Debug/net8.0/clubGodoyCordoba.dll
+/home/ricardo/Escritorio/programs/clubGodoyCordoba/obj/Debug/net8.0/refint/clubGodoyCordoba.dll
+/home/ricardo/Escritorio/programs/clubGodoyCordoba/obj/Debug/net8.0/clubGodoyCordoba.pdb
+/home/ricardo/Escritorio/programs/clubGodoyCordoba/obj/Debug/net8.0/clubGodoyCordoba.genruntimeconfig.cache
+/home/ricardo/Escritorio/programs/clubGodoyCordoba/obj/Debug/net8.0/ref/clubGodoyCordoba.dll
