@@ -7,4 +7,11 @@
     <Nullable>enable</Nullable>
   </PropertyGroup>
 
+<<<<<<< HEAD
+=======
+  <ItemGroup>
+    <PackageReference Include="MySql.Data" Version="9.3.0" />
+  </ItemGroup>
+
+>>>>>>> mysqlin
 </Project>

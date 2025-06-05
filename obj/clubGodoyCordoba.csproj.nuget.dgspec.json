@@ -37,6 +37,15 @@
       "frameworks": {
         "net8.0": {
           "targetAlias": "net8.0",
+<<<<<<< HEAD
+=======
+          "dependencies": {
+            "MySql.Data": {
+              "target": "Package",
+              "version": "[9.3.0, )"
+            }
+          },
+>>>>>>> mysqlin
           "imports": [
             "net461",
             "net462",
